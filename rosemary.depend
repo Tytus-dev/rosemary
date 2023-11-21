@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1700592974 source:/home/szymex/cpp/rosemary/main.cpp
+	<iostream>
+	<thread>
+	<chrono>
+	<cstdlib>
+
